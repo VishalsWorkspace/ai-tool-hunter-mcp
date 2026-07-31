@@ -166,12 +166,12 @@ with gr.Blocks(
     {
       "mcpServers": {
         "ai-tool-hunter": {
-          "url": "https://vishalclen-ai-tool-hunter-mcp.hf.space/gradio_api/mcp/sse"
+          "url": "https://ai-tool-hunter-mcp.onrender.com/gradio_api/mcp/sse"
         }
       }
     }
 ```
-    Built by **Pratyush Singh** | [AI Tool Hunter](https://ai-tool-hunter-eight.vercel.app)
+    Built by **Vishal Singh** | [AI Tool Hunter](https://ai-tool-hunter-eight.vercel.app)
     """)
 
 

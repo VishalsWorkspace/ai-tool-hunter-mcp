@@ -43,4 +43,4 @@ Add the SSE URL in MCP settings:
 - "What's the best AI coding assistant?"
 - "Find open source video generation tools"
 
-Built by Pratyush Singh | PlusSub Labs
+Built by Vishal Singh
