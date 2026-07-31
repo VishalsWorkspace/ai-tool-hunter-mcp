@@ -72,4 +72,4 @@ https://ai-tool-hunter-mcp.onrender.com/gradio_api/mcp/sse
 
 ---
 
-Built by **Vishal Singh** | [vishalclen](https://github.com/VishalsWorkspace)
+Built by **Vishal Singh**
